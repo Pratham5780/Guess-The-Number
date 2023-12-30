@@ -1,5 +1,5 @@
 "use strict";
-let Num = Math.trunc(Math.random() * 20) + 1;
+let Num = Math.trunc(Math.random() * 30) + 1;
 console.log(Num);
 
 let score = 5;
